@@ -1,1 +1,1 @@
-# Astro Starter Kit: Basics
+# Minimal Static Astro Hello World
